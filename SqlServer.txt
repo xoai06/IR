@@ -1,0 +1,7 @@
+[Section1]
+sSqlCheck=1
+sServername=192.168.106.20
+sDatabasename=DataBase
+sUid=chs
+sPwd=svILRL@0827
+sTablename=MPO_Data
